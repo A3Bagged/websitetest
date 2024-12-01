@@ -1,8 +1,12 @@
 # Project information
 site_name: SimpleAF
+site_url: https://pellcorp.github.io/Simple-AF-Wiki/
+site_author: Chris van Liere
 site_description: Documentation
 
 # Repository
+repo_name: GitHub
+repo_url: https://github.com/pellcorp/Simple-AF-Wiki
 
 # Copyright
 copyright: Name Here &copy; All rights reserved
@@ -116,7 +120,7 @@ nav:
       - BTT Eddy: installation/probes/btteddy.md
       - Microprobe: installation/probes/microprobe.md
       - BLTouch, CRTouch & 3DTouch: installation/probes/bltouch.md
-    - Configuration / Use: installaton/configurations.md
+    - Configuration / Use: installation/configuse.md
     - Troubleshooting: installation/troubleshooting.md
   - Others:
     - Donations: donations.md
